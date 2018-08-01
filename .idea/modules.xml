@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app01a/app01a.iml" filepath="$PROJECT_DIR$/app01a/app01a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app02a/app02a.iml" filepath="$PROJECT_DIR$/app02a/app02a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app02b/app02b.iml" filepath="$PROJECT_DIR$/app02b/app02b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app02c/app02c.iml" filepath="$PROJECT_DIR$/app02c/app02c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app03a/app03a.iml" filepath="$PROJECT_DIR$/app03a/app03a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app03b/app03b.iml" filepath="$PROJECT_DIR$/app03b/app03b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app04a/app04a.iml" filepath="$PROJECT_DIR$/app04a/app04a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app04b/app04b.iml" filepath="$PROJECT_DIR$/app04b/app04b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app05a/app05a.iml" filepath="$PROJECT_DIR$/app05a/app05a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app06a/app06a.iml" filepath="$PROJECT_DIR$/app06a/app06a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app06b/app06b.iml" filepath="$PROJECT_DIR$/app06b/app06b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app07a/app07a.iml" filepath="$PROJECT_DIR$/app07a/app07a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app07b/app07b.iml" filepath="$PROJECT_DIR$/app07b/app07b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app09a/app09a.iml" filepath="$PROJECT_DIR$/app09a/app09a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app10a/app10a.iml" filepath="$PROJECT_DIR$/app10a/app10a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app10b/app10b.iml" filepath="$PROJECT_DIR$/app10b/app10b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app11a/app11a.iml" filepath="$PROJECT_DIR$/app11a/app11a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app11b/app11b.iml" filepath="$PROJECT_DIR$/app11b/app11b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app12a/app12a.iml" filepath="$PROJECT_DIR$/app12a/app12a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1/b1.iml" filepath="$PROJECT_DIR$/b1/b1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2/b2.iml" filepath="$PROJECT_DIR$/b2/b2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b3/b3.iml" filepath="$PROJECT_DIR$/b3/b3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c1/c1.iml" filepath="$PROJECT_DIR$/c1/c1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d1/d1.iml" filepath="$PROJECT_DIR$/d1/d1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMvcApps.iml" filepath="$PROJECT_DIR$/springMvcApps.iml" />
+    </modules>
+  </component>
+</project>

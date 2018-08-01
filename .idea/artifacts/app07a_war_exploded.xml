@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="app07a:war exploded">
+    <output-path>$PROJECT_DIR$/tomcat/app07a_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="app07a" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-logging-1.1.2.jar" module-name="app07a" />
+          <element id="library" level="module" name="javax.servlet.jsp.jstl-1.2.1.jar" module-name="app07a" />
+          <element id="library" level="module" name="javax.servlet.jsp.jstl-api-1.2.1.jar" module-name="app07a" />
+          <element id="library" level="module" name="spring-beans-3.2.2.RELEASE.jar" module-name="app07a" />
+          <element id="library" level="module" name="spring-context-3.2.2.RELEASE.jar" module-name="app07a" />
+          <element id="library" level="module" name="spring-core-3.2.2.RELEASE.jar" module-name="app07a" />
+          <element id="library" level="module" name="spring-expression-3.2.2.RELEASE.jar" module-name="app07a" />
+          <element id="library" level="module" name="spring-web-3.2.2.RELEASE.jar" module-name="app07a" />
+          <element id="library" level="module" name="spring-webmvc-3.2.2.RELEASE.jar" module-name="app07a" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="app07a/web/Web" />
+    </root>
+  </artifact>
+</component>
